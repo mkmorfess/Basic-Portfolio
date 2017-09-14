@@ -1,4 +1,35 @@
-.teal {
 
+
+p {
+	color: #777777;
+}
+
+h1  {
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+footer {
+	background-color: #666666;
+	text-align: center;
+}
+
+.mainHeader {
 	background-color: #4aaaa5;
+	border-color: #cccccc;
+}
+
+.oldMoon {
+	background-image: url("oldmoon.jpg");
+
 }
