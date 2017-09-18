@@ -45,6 +45,7 @@
 	content: "";
 	display: block;
 	clear: both;
+	overflow: auto;
 }
 
 .tealBackground {
