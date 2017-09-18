@@ -169,3 +169,78 @@ p {
 	width: 500px;
 	height: 300px;
 }
+
+.portfolioLayout {
+	float: left;
+	margin: 40px;
+}
+
+.image { 
+   position: relative; 
+   width: 100%; 
+}
+
+#hangman { 
+   position: absolute; 
+   top: 150px; 
+   left: 40px; 
+   width: 196px;
+   height: 30px; 
+   color: #ffffff;
+   background: #4aaaa5;
+   padding: 2px;
+   text-align: center;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#rpgGame { 
+   position: absolute; 
+   top: 150px; 
+   left: 320px; 
+   width: 196px;
+   height: 30px; 
+   color: #ffffff;
+   background: #4aaaa5;
+   padding: 2px;
+   text-align: center;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#triviaGame { 
+   position: absolute; 
+   top: 150px; 
+   left: 40px; 
+   width: 196px;
+   height: 30px; 
+   color: #ffffff;
+   background: #4aaaa5;
+   padding: 2px;
+   text-align: center;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#rutgersInfoWidget { 
+   position: absolute; 
+   top: 150px; 
+   left: 320px; 
+   width: 196px;
+   height: 30px; 
+   color: #ffffff;
+   background: #4aaaa5;
+   padding: 2px;
+   text-align: center;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#RockPaperScissors { 
+   position: absolute; 
+   top: 150px; 
+   left: 40px; 
+   width: 196px;
+   height: 30px; 
+   color: #ffffff;
+   background: #4aaaa5;
+   padding: 2px;
+   text-align: center;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
