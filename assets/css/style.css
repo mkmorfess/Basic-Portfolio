@@ -187,10 +187,6 @@ p {
 	border-right: 1px #cccccc solid;
 }
 
-#resizedMessagebox {
-	height: 300px;
-}
-
 .portfolioLayout {
 	float: left;
 	margin: 50px;
