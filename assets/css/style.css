@@ -187,14 +187,7 @@ p {
 	border-right: 1px #cccccc solid;
 }
 
-
-
-.resizedTextbox {
-	width: 500px;
-}
-
-.resizedMessagebox {
-	width: 500px;
+#resizedMessagebox {
 	height: 300px;
 }
 
